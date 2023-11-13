@@ -22,7 +22,7 @@ tap-matomo = 'tap_matomo.tap:cli'
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.2"
-black = {version = "^19.10b0", allow-prereleases = true}
+black = {version = "^23.11", allow-prereleases = true}
 autopep8 = "^2.0.0"
 ipdb = "^0.13.0"
 pylint = "^2.15.8"
